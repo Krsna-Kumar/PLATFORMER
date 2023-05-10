@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CowboyMask
+  m_Mask: 01000000010000000000000001000000010000000000000000000000010000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cowboy
+    m_Weight: 1
+  - m_Path: CowboyArmature
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegPole.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegPole.L/IKLegPole.L_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegPole.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegPole.R/IKLegPole.R_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegTarget.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegTarget.L/IKLegTarget.L_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegTarget.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/IKLegTarget.R/IKLegTarget.R_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Neck
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Neck/Head/Head_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Finger1.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Finger1.L/Finger2.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Finger1.L/Finger2.L/Finger2.L_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Finger1.L/Thumb.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Finger1.L/Thumb.L/Thumb.L_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Finger1.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Finger1.R/Finger2.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Finger1.R/Finger2.R/Finger2.R_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Finger1.R/Thumb.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/Spine/Chest/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Finger1.R/Thumb.R/Thumb.R_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.L/LowerLeg.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.L/LowerLeg.L/Foot.L/Foot.L_end
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.R/LowerLeg.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R
+    m_Weight: 1
+  - m_Path: CowboyArmature/Pelvis/UpperLeg.R/LowerLeg.R/Foot.R/Foot.R_end
+    m_Weight: 1
